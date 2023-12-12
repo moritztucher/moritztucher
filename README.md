@@ -1,7 +1,7 @@
 # 👨‍💻 Moritz Tucher
 I'm a B.Sc Computer Science student with a minor in Artificial Intelligence. While studiying I worked as a part-time Software Engineer in the Software Testing department. I took on the responsibility of writing UNIT tests and conducting tests for new software releases. During this time and my studies, I have gained experience in various programming languages such as Java, Python, and C#.  
 
-Currently, I am challenging myself by learning SwiftUI, with the goal to create my own apps for iOS learning about mobile app development. Furthermore I try to deepen my knowledge of coding by completing Leetcode questions. 
+Currently, I am challenging myself by learning SwiftUI, with the goal to create my own apps for iOS and learning about mobile app development. Furthermore I try to deepen my knowledge of coding by completing Leetcode questions. 
 
 ## 🛠️ Languages
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
