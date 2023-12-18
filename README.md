@@ -14,10 +14,10 @@ Currently, I am challenging myself by learning SwiftUI, with the goal to create 
 Coming soon
 
 ## 📘 Learning Repros
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=100DaysOfSwiftUI&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=100DaysOfSwiftUI&show_owner=true&theme=github_dark)](https://github.com/moritztucher/100Days-of-SwiftUI)
 
 ## 📊 GitHub Profile Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moritztucher&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moritztucher&theme=github_dark&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moritztucher&theme=github_dark&show_icons=true)](https://github.com/moritztucher) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moritztucher&theme=github_dark&layout=compact)
 <details> 
   <summary></summary>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
