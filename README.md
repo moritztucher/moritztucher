@@ -10,12 +10,13 @@ Currently, I am challenging myself by learning SwiftUI, with the goal to create 
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'>
 <br /><br />
 
+<!-- 
 ## 📗 Own Projects
 Coming soon
 
 ## 📙 Open-Source Contribution
 Coming Soon
-
+-->
 ## 📘 Learning Repros
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=100DaysOfSwiftUI&show_owner=true&theme=github_dark)](https://github.com/moritztucher/100Days-of-SwiftUI)
 
