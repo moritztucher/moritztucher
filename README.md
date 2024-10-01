@@ -1,5 +1,7 @@
 # 👨‍💻 Moritz Tucher
 
+💻 iOS Developer 🌟 Documenting the journey of building my own app
+
 ## 🛠️ Languages
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
