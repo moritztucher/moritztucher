@@ -8,7 +8,7 @@
 <br /><br />
 
 ## 📗 Own Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=100DaysOfSwiftUI&show_owner=true&theme=github_dark)](https://github.com/moritztucher/RSS-Feed-Reader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=RSS-Feed-Reader&show_owner=true&theme=github_dark)](https://github.com/moritztucher/RSS-Feed-Reader)
 
 <!-- 
 ## 📙 Open-Source Contribution
