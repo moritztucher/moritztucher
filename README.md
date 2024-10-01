@@ -10,12 +10,16 @@
 ## 📗 Own Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=RSS-Feed-Reader&show_owner=true&theme=github_dark)](https://github.com/moritztucher/RSS-Feed-Reader)
 
+## 📙 Other
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=iOS-Conferences-2025&show_owner=true&theme=github_dark)]([https://github.com/moritztucher/RSS-Feed-Reader](https://github.com/moritztucher/iOS-Conferences-2025))
+
 <!-- 
 ## 📙 Open-Source Contribution
 Coming Soon
--->
+
 ## 📘 Learning Repros
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=100DaysOfSwiftUI&show_owner=true&theme=github_dark)](https://github.com/moritztucher/100Days-of-SwiftUI)
+-->
 
 ## 📊 GitHub Profile Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moritztucher&theme=github_dark&show_icons=true)](https://github.com/moritztucher) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moritztucher&theme=github_dark&layout=compact)
