@@ -1,6 +1,6 @@
 # 👨‍💻 Moritz Tucher
 
-💻 iOS Developer 🌟 Documenting the journey of building my own app
+I'm an iOS Developer passionate about creating apps that simplify daily life and improve productivity. Currently working as a iOS Developer at WAPP GmbH and pursuing a B.Sc. in Computer Science with a minor in AI/Cognitive Science.
 
 ## 🤝 Connect Me
 
@@ -21,6 +21,7 @@
 -->
 
 ## 📱 My Apps
+
 
 
 <!-- 
