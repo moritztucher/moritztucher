@@ -2,7 +2,7 @@
 
 I'm an iOS Developer passionate about creating apps that simplify daily life and improve productivity. Currently working as a iOS Developer at WAPP GmbH and pursuing a B.Sc. in Computer Science with a minor in AI/Cognitive Science.
 
-## 🤝 Connect Me
+## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/moritztucher/"><img align="left" src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/linkedin.png" alt="Moritz Tucher | LinkedIn" width="30px" style="padding-right:10px;" /></a>
 <a href="https://x.com/moritztucher"><img align="left" src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/twitter.png" alt="Moritz Tucher | Twitter" width="30px" style="padding-right:10px;" /></a>
