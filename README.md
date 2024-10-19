@@ -21,7 +21,9 @@ I'm an iOS Developer passionate about creating apps that simplify daily life and
 -->
 
 ## 📱 My Apps
-
+<a href="https://apps.apple.com/app/id6504585005"><img align="left" src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/habitfinch.png" alt="Habit Tracker - HabitFinch" width="100px" style="padding-right:10px;" />Habit Tracker - HabitFinch</a> 
+</br>HabitFinch isn’t just another habit tracker. It goes beyond tracking by showing how your daily life influences the habits you're trying to build, thanks to its HealthKit integration. Whether you're focusing on health, productivity, or mindfulness, HabitFinch helps you understand the bigger picture.
+</br></br>
 
 
 <!-- 
