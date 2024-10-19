@@ -1,6 +1,6 @@
 # 👨‍💻 Moritz Tucher
 
-I'm an iOS Developer passionate about creating apps that simplify daily life and improve productivity. Currently working as a iOS Developer at WAPP GmbH and pursuing a B.Sc. in Computer Science with a minor in AI/Cognitive Science.
+I'm an iOS Developer passionate about creating apps that simplify daily life and improve productivity. Currently working as a iOS Developer and pursuing a B.Sc. in Computer Science with a minor in AI/Cognitive Science.
 
 ## 🤝 Let's Connect
 
