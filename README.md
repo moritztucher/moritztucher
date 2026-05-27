@@ -1,57 +1,37 @@
-# 👨‍💻 Moritz Tucher
+### Hi, I'm Moritz 👋
 
-I'm an iOS Developer passionate about creating apps that simplify daily life and improve productivity. Currently working as a iOS Developer and pursuing a B.Sc. in Computer Science with a minor in AI/Cognitive Science.
+I make iOS apps for habit, learning, and lifestyle — grounded in research, finished with care.
 
-## 🤝 Let's Connect
+I build the apps I wish existed. Science gives the foundation; craft does the rest. Small, considered, no rush.
 
-<a href="https://www.linkedin.com/in/moritztucher/"><img align="left" src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/linkedin.png" alt="Moritz Tucher | LinkedIn" width="30px" style="padding-right:10px;" /></a>
-<a href="https://x.com/moritztucher"><img align="left" src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/twitter.png" alt="Moritz Tucher | Twitter" width="30px" style="padding-right:10px;" /></a>
-<a href="https://instagram.com/moritztucher"><img align="left" src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/instagram.png" alt="Moritz Tucher | Instagram" width="30px" style="padding-right:10px;" /></a>
-</br></br>
+---
 
-## 🛠️ Technical Skills
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'>
-<br /><br />
+#### 📱 On the App Store
 
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moritztucher&theme=github_dark&layout=compact)
--->
+**[XueTang](https://apps.apple.com/app/id6743937874)** — A Chinese learning app combining on-device tone classification with FSRS-powered spaced repetition.
 
-## 📱 My Apps
-<a href="https://apps.apple.com/app/id6504585005"><img align="left" src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/habitfinch.png" alt="Habit Tracker - HabitFinch" width="100px" style="padding-right:10px;" />Habit Tracker - HabitFinch</a> 
-</br>HabitFinch isn’t just another habit tracker. It goes beyond tracking by showing how your daily life influences the habits you're trying to build, thanks to its HealthKit integration. Whether you're focusing on health, productivity, or mindfulness, HabitFinch helps you understand the bigger picture.
-</br></br>
+**[Protocol 66](https://apps.apple.com/app/id6757076988)** — A 66-day habit challenge built on the research that habits take ~66 days to automate. Five habits a day, friend accountability, no skipping (miss a day, start over).
 
+**[HabitFinch](https://apps.apple.com/app/id6504585005)** — A habit tracker that uses HealthKit to surface which lifestyle factors actually correlate with your habit success.
 
-<!-- 
-## 📗 Own Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=RSS-Feed-Reader&show_owner=true&theme=github_dark)](https://github.com/moritztucher/RSS-Feed-Reader)
+---
 
-## 📙 Other
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=iOS-Conferences-2025&show_owner=true&theme=github_dark)]([https://github.com/moritztucher/RSS-Feed-Reader](https://github.com/moritztucher/iOS-Conferences-2025))
+#### 🛠️ How I build
 
-## 📙 Open-Source Contribution
-Coming Soon
+Swift 6 · SwiftUI · CoreML · RealmSwift · RevenueCat · PostHog · Firebase
 
-## 📘 Learning Repros
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moritztucher&repo=100DaysOfSwiftUI&show_owner=true&theme=github_dark)](https://github.com/moritztucher/100Days-of-SwiftUI)
--->
+Claude Code is a built-in collaborator across my pipeline — code review, design audits, release prep, App Store copy — through a curated set of skills and agents I've shaped over time. Accelerator, not autopilot: the architecture calls, the trade-offs, and the quality bar stay mine.
 
-## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moritztucher&theme=github_dark&show_icons=true)](https://github.com/moritztucher) 
+---
 
+#### 📌 Pinned
 
-<!-- 
-### Commands for Links (GitHub Stats and Readme Card)
-&show_icons=true
-&show_owner=true
-&theme=github_dark
+- **[claude-code-ios-setup](https://github.com/moritztucher/claude-code-ios-setup)** — My curated Claude Code skills and agents for shipping iOS apps faster
+- **[iOS-Conferences](https://github.com/moritztucher/iOS-Conferences)** — Open-source aggregator of Apple ecosystem conferences
+- **[HanziPinyinConverter](https://github.com/moritztucher/HanziPinyinConverter)** — Swift package for Hanzi → Pinyin conversion (extracted from XueTang)
 
-### Links 
-https://github.com/devicons/devicon/tree/v2.15.1/icons
-https://github.com/DenverCoder1/
-https://github.com/anuraghazra/github-readme-stats
--->
+---
+
+#### 🔗 Find me
+
+[LinkedIn](https://www.linkedin.com/in/moritztucher/) · [X](https://x.com/moritztucher) · [Instagram](https://instagram.com/moritztucher) · [Website](https://moritztucher.com)
