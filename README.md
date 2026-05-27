@@ -8,23 +8,20 @@ I build the apps I wish existed. Science gives the foundation; craft does the re
 
 #### 📱 On the App Store
 
-<a href="https://apps.apple.com/app/id6743937874"><img src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/xuetang.png" width="56" align="left" hspace="12" /></a>
-
-**[XueTang](https://apps.apple.com/app/id6743937874)** — A Chinese learning app combining on-device tone classification with FSRS-powered spaced repetition.
-
-<br clear="left"/>
-
-<a href="https://apps.apple.com/app/id6757076988"><img src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/protocol66.png" width="56" align="left" hspace="12" /></a>
-
-**[Protocol 66](https://apps.apple.com/app/id6757076988)** — A 66-day habit challenge built on the research that habits take ~66 days to automate. Five habits a day, friend accountability, no skipping (miss a day, start over).
-
-<br clear="left"/>
-
-<a href="https://apps.apple.com/app/id6504585005"><img src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/habitfinch.png" width="56" align="left" hspace="12" /></a>
-
-**[HabitFinch](https://apps.apple.com/app/id6504585005)** — A habit tracker that uses HealthKit to surface which lifestyle factors actually correlate with your habit success.
-
-<br clear="left"/>
+<table>
+<tr>
+<td width="80"><a href="https://apps.apple.com/app/id6743937874"><img src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/xuetang.png" width="64" /></a></td>
+<td><strong><a href="https://apps.apple.com/app/id6743937874">XueTang</a></strong> — A Chinese learning app combining on-device tone classification with FSRS-powered spaced repetition.</td>
+</tr>
+<tr>
+<td><a href="https://apps.apple.com/app/id6757076988"><img src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/protocol66.png" width="64" /></a></td>
+<td><strong><a href="https://apps.apple.com/app/id6757076988">Protocol 66</a></strong> — A 66-day habit challenge built on the research that habits take ~66 days to automate. Five habits a day, friend accountability, no skipping (miss a day, start over).</td>
+</tr>
+<tr>
+<td><a href="https://apps.apple.com/app/id6504585005"><img src="https://raw.githubusercontent.com/moritztucher/moritztucher/main/images/habitfinch.png" width="64" /></a></td>
+<td><strong><a href="https://apps.apple.com/app/id6504585005">HabitFinch</a></strong> — A habit tracker that uses HealthKit to surface which lifestyle factors actually correlate with your habit success.</td>
+</tr>
+</table>
 
 ---
 
